@@ -9,9 +9,9 @@ Pré-requisitos:
 - Google Chrome 88.0.4324
 - Cadastro no Registrato do Banco Central
 
-Baixe o código do repositório no GitHub e descompacte.
+Baixe o [código](https://github.com/ricardomaia/consulta-bcb-registrato/archive/main.zip) do repositório no GitHub e descompacte.
 
-Renomeie o arquivo `config.yml.sample` para `config.yml` e insira suas credenciais.
+Renomeie o arquivo `config.sample.yml` para `config.yml` e insira suas credenciais.
 
 Abra o diretório descompactado no console do Windows e execute os seguintes comandos:
 
