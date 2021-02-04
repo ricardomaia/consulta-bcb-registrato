@@ -13,6 +13,12 @@ Baixe o [código](https://github.com/ricardomaia/consulta-bcb-registrato/archive
 
 Renomeie o arquivo `config.sample.yml` para `config.yml` e insira suas credenciais.
 
+```yaml
+credentials:
+  cpf: 01234567890
+  senha: minhasenhasegura
+```
+
 Abra o diretório descompactado no console do Windows e execute os seguintes comandos:
 
 ```console
