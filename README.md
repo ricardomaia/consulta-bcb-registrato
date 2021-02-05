@@ -1,4 +1,5 @@
 # Consulta BCB Registrato
+
 Consulta automatizada ao serviço [Registrato](https://www.bcb.gov.br/cidadaniafinanceira/registrato) do Banco Central do Brasil
 
 ## Instalação no Windows
@@ -7,7 +8,7 @@ Pré-requisitos:
 
 - Python 3
 - Google Chrome 88.0.4324
-- Cadastro no Registrato do Banco Central
+- Cadastro no Registrato do Banco Central e aceite dos Termos e Condições.
 
 Baixe o [código](https://github.com/ricardomaia/consulta-bcb-registrato/archive/main.zip) do repositório no GitHub e descompacte.
 
